@@ -110,3 +110,8 @@ including the partitioned Parquet files.
 > Built an end-to-end Big Data pipeline in PySpark to clean and aggregate 1.5M+
 > e-commerce transaction records, writing partitioned Parquet fact tables and
 > BI-ready summary tables consumed by Power BI dashboards.
+
+
+## Proof of Run
+
+![Pipeline run output](pipeline-run.png)
