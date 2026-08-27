@@ -115,3 +115,8 @@ including the partitioned Parquet files.
 ## Proof of Run
 
 ![Pipeline run output](pipeline-run.png)
+
+
+## Dashboard section
+
+![ Dashboard output] (Dashboard.png)
