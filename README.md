@@ -119,4 +119,4 @@ including the partitioned Parquet files.
 
 ## Dashboard section
 
-![ Dashboard output] (Dashboard.png)
+![Dashboard output](Dashboard.png)
