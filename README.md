@@ -117,6 +117,4 @@ including the partitioned Parquet files.
 ![Pipeline run output](pipeline-run.png)
 
 
-## Dashboard section
 
-![Dashboard output](Dashboard.png)
